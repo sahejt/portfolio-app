@@ -1,6 +1,6 @@
 # Sahej Tuli's Portfolio
 
-This portfolio is the result of my dedicated efforts and countless hours of work. Therefore, it is not open source to ensure its originality and prevent unauthorized copying.
+This portfolio is a result of dedicated efforts and countless hours of work. Therefore, it is not open source to ensure its originality and prevent unauthorized copying.
 
 I deeply value the uniqueness and integrity of my portfolio, which reflects my personal style and expertise. I appreciate your understanding and respect for my hard work. 
 
